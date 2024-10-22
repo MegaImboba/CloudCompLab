@@ -1,0 +1,10 @@
+{
+ "name": "docker_git_app",
+ "version" : "1.0.0",
+ "description" : "Lab2CloudScience",
+ "autor": "Semcov Alexand semkov.aleks3@gmail.com" ,
+ "main" : "server.js",
+ "scripts" : { "start" : "node server.js"
+},
+ "dependencies" : {"express":"node.server.js"}
+ }
